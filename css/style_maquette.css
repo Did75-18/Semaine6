@@ -1,0 +1,159 @@
+body{
+	font-size: 1.1em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+header {
+	background-color: rgb(55, 187, 210);
+	color: #ffffff;
+	font-size: 1.2em;
+}
+
+header>div{
+	display: flex;
+	align-items: center;
+	margin: auto;
+	padding: 0 5em;
+}
+header img {
+	margin: 10px 15px 0 30px;
+}
+
+h4 {
+	flex: 1;
+	margin-bottom: 25px;
+
+}
+header div:last-child {
+	padding-right: 8em;
+}
+.leader {
+	padding-top: 120px;
+	padding-bottom: 120px;
+	background-color: rgb(245, 245, 245);
+
+}
+.basLeader {
+	background-color: rgb(153, 153, 153);
+	padding: 1em 0;
+	color: #ffffff;
+	font-weight: bold;
+}
+.glyphicon {
+    top: 0.3em;
+    right: 0.8em;
+}
+
+.border {
+	border: 5px solid rgb(68, 67, 65);
+}
+.entertainment {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: rgb(250, 138, 126);
+}
+.basentertainment {
+	background-color: rgb(248, 80, 77);
+	padding: 1em 0;
+	color: #ffffff;
+	font-weight: bold;
+}
+.sports {
+	padding-top: 55px;
+	padding-bottom: 55px;
+	background-color: rgb(180, 131, 255);
+}
+.basSports {
+	background-color: rgb(126, 82, 197);
+	padding: 1em 0;
+	color: #ffffff;
+	font-weight: bold;
+}
+.foodDrink {
+	padding-top: 40px;
+	background-color: rgb(183, 246, 201);
+}
+.basFoodDrink {
+	background-color: rgb(53, 234, 181);
+	padding: 1.05em 0;
+	color: rgb(98, 98, 98);
+	font-weight: bold;
+	margin-top: 40px;
+}
+.knowledge {
+	padding-top: 38px;
+	background-color: rgb(251, 255, 134);
+}
+.basKnowledge {
+	background-color: rgb(251, 237, 26);
+	padding: 1em 0;
+	color: rgb(98, 98, 98);
+	font-weight: bold;
+	margin-top: 40px;
+}
+.geography {
+	padding-top: 117px;
+	background-color: rgb(250, 138, 126);
+
+}
+.basGeography {
+	background-color: rgb(248, 80, 77);
+	padding: 1em 0;
+	color: #ffffff;
+	font-weight: bold;
+	margin-top: 100px;
+}
+.history {
+	padding-top: 55px;
+	padding-bottom: 55px;
+	background-color: rgb(126, 254, 255);
+}
+.basHistory {
+	background-color: rgb(62, 168, 246);
+	padding: 1em 0;
+	color: #ffffff;
+	font-weight: bold;
+}
+.sciences {
+	padding-top: 47px;
+	padding-bottom: 47px;
+	background-color: rgb(183, 246, 201);
+}
+.basSciences {
+	background-color: rgb(53, 234, 181);
+	padding: 1em 0;
+	color: rgb(98, 98, 98);
+	font-weight: bold;
+}
+.movies {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: rgb(180, 131, 255);
+}
+.basMovies {
+	background-color: rgb(126, 82, 197);
+	padding: 1em 0;
+	color: #ffffff;
+	font-weight: bold;
+}
+.music {
+	padding-top: 51px;
+	padding-bottom: 50px;
+	background-color: rgb(126, 254, 255);
+}
+.basMusic {
+	background-color: rgb(62, 168, 246);
+	padding: 1em 0;
+	color: #ffffff;
+	font-weight: bold;
+}
+.profile {
+	padding-top: 45px;
+	padding-bottom: 45px;
+	background-color: rgb(245, 245, 245);
+}
+.basProfile {
+	background-color: rgb(153, 153, 153);
+	padding: 1em 0;
+	color: #ffffff;
+	font-weight: bold;
+}
